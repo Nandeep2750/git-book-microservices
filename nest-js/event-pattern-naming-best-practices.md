@@ -17,5 +17,3 @@ In a microservices architecture, naming event patterns plays a critical role in 
 * **Review and Document:** Document your naming conventions and make sure the entire team is aware of and follows these rules. Regularly review and update naming conventions as needed.
 
 These guidelines help ensure that your event patterns are well-structured, easy to understand, and consistent across your microservices architecture, promoting clear communication and maintainability.
-
-\
